@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<title>WEB1-JavaScript</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1><a href="index.html" target="_blank">WEB</a></h1>
+<ol>
+	<li><a href="1.html" target="_blank">HTML</a></li>
+	<li><a href="2.html" target="_blank">CSS</a></li>
+	<li><a href="3.html" target="_blank">JavaScript</a></li>
+</ol>
+<h2>Java Script란 무엇인가?</h2>
+<p>JavaScript, often abbreviated as JS, is a programming
+ language and core technology of the Web, alongside HTML and CSS.
+ 99% of websites use JavaScript on the client side for webpage behavior.[10]
+
+Web browsers have a dedicated JavaScript engine that executes 
+the client code. These engines are also utilized in some servers 
+and a variety of apps. The most popular runtime system for 
+non-browser usage is Node.js.</p>
+<img src="coding.jpg" width="50%">
+</body>
+
+</html>
